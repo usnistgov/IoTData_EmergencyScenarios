@@ -1,0 +1,23 @@
+CHARIoT Challenge Overview
+
+Abstract:
+
+The CHARIoT Challenge, hosted by PSCR and its challenge partners, invited innovators to build augmented reality (AR) interfaces or Internet of Things (IoT) data emulators by participating in a multi-phase contest. The Challenge consisted of two multi-phase contests, simultaneously: Build Augmented Reality Interfaces for First Responder and Emulate Smart City Data for Disaster Scenarios. 
+
+
+Methodology:
+
+Police, Fire, and Emergency Medical Services crews cannot respond efficiently without proper situational awareness. Up to now, they’ve relied on eyewitness, radio and traditional communications channels for information. But IoT devices, smart buildings and smart cities also have the potential to provide tremendous amounts of information that remain largely inaccessible by first responders and incident command officers. 
+
+AR Contestants created augmented reality interfaces for public safety to improve communications in four emergency scenarios. They earned points by creating augmented reality interfaces for first responders or incident command utilizing smart building and personal area network sensor data. Successful contestants designed and integrated streams of live data into augmented reality interfaces. The final interfaces were evaluated at a public safety training center.
+
+
+Contest Contribution:
+
+As part of this GitHub repository, you’ll learn more about the Challenge provided data sets used by the AR contestants for each of the emergency scenarios.
+The IoT Contestants developed a data appliance capable of emulating smart city data streams in four emergency scenarios. They determined the best building and personal area network sensors which are most useful for first responders to successfully complete their tasks in four provided emergency scenarios. At the final evaluation, we will transmit the IoT contestants’ simulated data, of which the AR contestants also utilized to design their final contestants. After the final evaluation, the IoT contestants will have the option to open source their data for posting and linking to this GitHub repository.
+ 
+Stay tuned for updates about their data and the final evaluation of all the contestants’ submissions! This document will be updated to reflect the final submission data.
+ 
+ 
+
