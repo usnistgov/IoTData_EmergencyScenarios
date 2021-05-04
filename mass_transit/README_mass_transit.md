@@ -2,7 +2,7 @@
 
 ## Scenario Narrative
 
-There is a train derailment with associated fire and smoke. Passengers call 911 and report the incident. Sensors on the tracks locate where the derailment occurred and nature of the cars (e.g., on/off tracks). CCTV security cameras inside tunnel show real-time footage of the smoke from the trains. Sensors on the cars indicate number of passengers in each car and status of the doors and emergency exits. Additional sensors in the tunnel share smoke levels, temperature, CO2, emergency lighting, and status of the rail (3rd Rail) that is electrified. 
+There is a train derailment with associated fire and smoke. Passengers call 911 and report the incident. Sensors on the tracks locate where the derailment occurred and nature of the cars (e.g., on/off tracks). CCTV security cameras inside tunnel show real-time footage of the smoke from the trains. Sensors on the cars indicate number of passengers in each car and status of the doors and emergency exits. Additional sensors in the tunnel share smoke levels, temperature, CO2, emergency lighting, and status of the rail (3rd Rail) that is electrified.
 
 Additional sensors are available in the station including environmental sensors indicating smoke and CO2 entering. Firefighters respond to the area at the next station up and are able to load a fire suppression unit on the tracks to respond to the fire. Responders travel down the tracks and locate the front car  of the train. Various communications occur throughout the event. Responders attack the fire and then proceed to open up the side doors and evacuate the passengers inside.  
 

@@ -18,13 +18,13 @@ Within the folder for each scenario, an additional README file will provide addi
 
 ## Contribute to the Space 
 
-* By contributing to this space all individuals, groups or orgainizations will be required to abide by the Rules_of_Behavior.txt document.
+* By contributing to this space all individuals, groups or organizations will be required to abide by the Rules_of_Behavior.txt document.
 * By contributing to this repository it is assumed that you have read and will abide by the terms in the Rules_of_Behavior.txt.
 * Contributions may be renamed, moved or deleted without prior notification. Always create local backups or working backups of your contribution(s).
 
 Contributions come in three categories:
 
-1. **Tool:** A tool can be an open source solution or process, ranging from software to frameworks. Examples may include IoT generators, data stores upon which IoT data is generated or simulated/emulated first responder (persons) actions or biometrics. DISCLAIMER: Do not include identifiable information in submission data or tools as described in the Rules_of_Behavior.txt document.
+1. **Tool:** A tool can be an open source solution or process, ranging from software to frameworks. Examples may include IoT generators, data stores upon which IoT data is generated or simulated/emulated first responder (persons) actions or bio-metrics. DISCLAIMER: Do not include identifiable information in submission data or tools as described in the Rules_of_Behavior.txt document.
 
 2. **Scenario or Use Case:** A scenario is an example of an first response event, e.g. fire or earthquake. A use case is a situation where a tool or IoT data is applicable to different first response events, and not specific to any one scenario. In other words, the tool can be used in multiple first response scenarios.
 
@@ -46,9 +46,9 @@ Tools, scenarios and use cases are contributed via pull requests, while feedback
 3.b. Include in the directory a README_<scenario_name>.md file in each scenario directory describing the submission
 3.b.i. example: README_wildfire.md
 
-3.c. If hosting a tool in this repository, also include in the directory any pertinent source code files or documentation. Subdirectories with relevant source code or descriptive files are allowed. Please do not include any "closed-source" or propietary code, code that includes "hard coded" values, such as IP addresses, keys, passwords, etc. Identifiable information, such as addresses, names, birth dates, etc. Geo-tagged or coordinate data may be considered identifiable, consider location randomization or a wide location area if this information is included. Do not include any potentially or otherwise malicious code. Such code will result in a permanent ban to this repository.
+3.c. If hosting a tool in this repository, also include in the directory any pertinent source code files or documentation. Sub-directories with relevant source code or descriptive files are allowed. Please do not include any "closed-source" or proprietary code, code that includes "hard coded" values, such as IP addresses, keys, passwords, etc. Identifiable information, such as addresses, names, birth dates, etc. Geo-tagged or coordinate data may be considered identifiable, consider location randomization or a wide location area if this information is included. Do not include any potentially or otherwise malicious code. Such code will result in a permanent ban to this repository.
 
-3.d. If more than one dataset, tools, source code, etc. are being provided to the contribution, aptly name the submissions to reflect it's unique use case within the scenario directory.
+3.d. If more than one datasets, tools, source code, etc. are being provided to the contribution, aptly name the submissions to reflect it's unique use case within the scenario directory.
 
 example: Submission 1: tornado/<teamname>/city/iotData.txt
 example: Submission 2: tornado/<teamname>/rural/iotData.txt

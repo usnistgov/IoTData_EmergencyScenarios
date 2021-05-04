@@ -2,7 +2,7 @@
 
 ## Scenario Narrative
 
-Misfortuneville, U.S.A.  has a state-of-the-art emergency preparedness/response center, and the city itself has been outfitted with the newest sensors to keep its residents safe. None of that’s important right now. This morning, the National Weather Service reported strong storms in the area during the afternoon, and alerted residents to stay alert for flash flooding.
+Misfortuneville, U.S.A. has a state-of-the-art emergency preparedness/response center, and the city itself has been outfitted with the newest sensors to keep its residents safe. None of that’s important right now. This morning, the National Weather Service reported strong storms in the area during the afternoon, and alerted residents to stay alert for flash flooding.
 
 At 2:00 PM, the rain began at a rate of 3” per hour and was projected to move along within the hour. Being flood prone, the city is equipped with flood water level sensors in low lying areas. These sensors were activated at 2:30 PM and showed 4” of standing water already. This information was electronically distributed to emergency dispatch maps for use in communication.
 
