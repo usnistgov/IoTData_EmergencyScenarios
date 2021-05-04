@@ -34,24 +34,32 @@ Moderators
 
 Public Safety Internet-of-Things Moderators:
 
-Donald Harriss @dharriss1:
+Donald Harriss:
+GitHub Contact: @dharriss1
+Email Contact: donald.harriss@nist.gov
 Donald is the Senior Network Engineer for the Communication Technology Laboratory (CTL), Public Safety Communications Research (PSCR) Division within NIST.  Donald is currently researching the Public Safety Internet of Things (IoT) and Cyber security IoT technologies. Donald received his Masters of Science in Telecommunications from the University of Colorado and his Bachelors of Science in Telecommunications from Murray State University.
 
-Alison Kahn @amk4:
+Alison Kahn: 
+GitHub Contact: @amk4
 Alison is an Electronics Engineer with NIST’s Public Safety Communications Research (PSCR) division. Alison is currently the project lead for First Responder Personal Area Network research, sponsored by the Department of Homeland Security Science and Technology directorate.  This project is working to identify and address barriers in the assimilation and utilization of IoT data during first responder field operations.
 
 Augmented Reality Applications Leveraging Public Safety Data Moderators:
 
 Scott Ledgerwood:
-UI/UX Portfolio Lead at PSCR, is focused on improved usability, user interface testing, and mobile device security for first responders. His team is developing new test methodologies leveraging virtual and augmented reality to enable improved research, testing and development of first-responder technologies. Scott holds a bachelor's degree in applied information technology from George Mason University and a master's in business administration from Bellevue University.
+Email Contact: scott.ledgerwood@nist.gov
+Scott Ledgerwood leads the UI/UX portfolio at NIST PSCR where he is focused on improving usability and user interface testing for first responders. His team is developing new test methodologies leveraging VR/AR to enable improved research, testing and development of first responder technologies. They are also conducting research and development on technology systems like camera and video capture devices for improving user experiences. Scott holds a BS in Applied Information Technology from George Mason University, an MBA from Bellevue University and an MS in Telecommunications from University of Colorado Boulder.
 
 Paul Merritt:
+GitHub Contact: @paulmerritt
+Paul joined PSCR in 2018 after finishing his degree at NYU in Computer Science with a minor in Game Engineering. Paul has experience programming for a variety of augmented reality headsets and prior to joining NIST worked with LA Fire on creating AR training tools for radio communications. At PSCR, he's created several proof of concept prototypes to facilitate research and development in AR as well as the current CHARIoT challenge.
 
-CHARIoT Challenge Moderator
+CHARIoT Challenge Moderator:
 
-Sarah Hughes @SLHug!:
-Prize challenge specialist at NIST. As part of the Public Safety Communications Research Division, Sarah manages internal and external R&D, communications, legal, administrative, and procurement resources to design and implement prize competitions and pre-commercialization efforts to advance PSCR's mission. Sarah holds a Master of Public Affairs degree from the School of Public and Environmental Affairs (SPEA) at Indiana University and a Bachelor of Arts degree from DePauw University.
-NIST Public Safety Communications Research Division. Contact: psprizes@nist.gov
+Sarah Hughes
+Email Contact: psprizes@nist.gov
+GitHub Contact: @SLHug!
+Sarah Hughes is a prize challenge specialist at NIST. As part of the Public Safety Communications Research Division, Sarah manages internal and external R&D, communications, legal, administrative, and procurement resources to design and implement prize competitions and pre-commercialization efforts to advance PSCR's mission. Sarah holds a Master of Public Affairs degree from the School of Public and Environmental Affairs (SPEA) at Indiana University and a Bachelor of Arts degree from DePauw University.
+NIST Public Safety Communications Research Division.
 
 Learn about NIST's Public Safety Communications Research Division by visiting our website.
 
