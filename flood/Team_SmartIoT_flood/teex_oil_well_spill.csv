@@ -1,0 +1,7 @@
+ID,name,time,latitude,longitude,value,units,range
+well_3976,Oil Well Spill,2020-05-19 07:10:24.589692Z,30.533216,-96.36529,100,gallons/hr,LOW
+well_3977,Oil Well Spill,2020-05-19 07:11:24.589692Z,30.533216,-96.36529,149,gallons/hr,LOW
+well_3978,Oil Well Spill,2020-05-19 07:12:24.589692Z,30.533216,-96.36529,310,gallons/hr,LOW
+well_3979,Oil Well Spill,2020-05-19 07:13:24.589692Z,30.533216,-96.36529,498,gallons/hr,MEDIUM
+well_3980,Oil Well Spill,2020-05-19 07:14:24.589692Z,30.533216,-96.36529,834,gallons/hr,HIGH
+well_3981,Oil Well Spill,2020-05-19 07:15:24.589692Z,30.533216,-96.36529,1654,gallons/hr,HIGH

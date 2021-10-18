@@ -1,0 +1,4 @@
+ID,name,time,latitude,longitude,value,units,range
+Road Closure 1 Violations,Road Closure Violations,2020-05-19 07:09:24.589692Z,30.593347,-96.377192,1,Count,LOW
+Road Closure 2 Violations,Road Closure Violations,2020-05-19 07:11:24.589692Z,30.578304,-96.341688,5,Count,MEDIUM
+Road Closure 3 Violations,Road Closure Violations,2020-05-19 07:14:24.589692Z,30.593347,-96.377192,10,Count,HIGH

@@ -1,0 +1,5 @@
+id,name,time,latitude,longitude,value,units,range
+DisabledVehicle_1,buick special Texas AC1G321,2020-05-19 14:09:54.589692Z,30.592165,-96.385775,AC1G321,License Plate,LOW
+DisabledVehicle_2,chev C-10 Texas KG5O285,2020-05-19 14:12:06.589692Z,30.564325,-96.35,KG5O285,License Plate,LOW
+DisabledVehicle_3,chev corvette c-6 California 7XYZ789,2020-05-19 14:15:06.589692Z,30.587426,-96.381999,7XYZ789,License Plate,LOW
+DisabledVehicle_4,gmc gmc serra 4500 Texas DE2F456,2020-05-19 14:13:34.589692Z,30.562552,-96.413172,DE2F456,License Plate,LOW
