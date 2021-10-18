@@ -1,0 +1,5 @@
+ID,name,time,latitude,longitude,value,units,range
+oilslick_1,Oil slick,2020-05-19 07:09:24.589692Z,30.531331,-96.384816,100,sq feet,LOW
+oilslick_1,Oil slick,2020-05-19 07:11:24.589692Z,30.531331,-96.384816,150,sq feet,LOW
+oilslick_1,Oil slick,2020-05-19 07:13:24.589692Z,30.531331,-96.384816,300,sq feet,MEDIUM
+oilslick_1,Oil slick,2020-05-19 07:15:24.589692Z,30.531331,-96.384816,875,sq feet,HIGH
